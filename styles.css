@@ -22,3 +22,15 @@ dl,
 dd {
   margin-block-end: 0;
 }
+
+
+#cartas {
+ 
+  width: 80vw;
+  max-width:1000px;
+  height:auto;
+  background-color:aqua;
+  display:grid;
+  grid-template-columns: repeat(4, 3fr);
+  
+}
