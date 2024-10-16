@@ -24,7 +24,7 @@ dd {
 }
 
 
-#cartas {
+body {
  
   width: 80vw;
   max-width:1000px;
@@ -33,4 +33,8 @@ dd {
   display:grid;
   grid-template-columns: repeat(4, 3fr);
   
+}
+
+#container {
+  width: 90vw;
 }
